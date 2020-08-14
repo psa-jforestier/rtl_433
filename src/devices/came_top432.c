@@ -11,7 +11,7 @@
  */
 
 /**
-The device uses PPM encoding,
+The device uses PWM encoding,
 - 0 is encoded as 320 us gap and 640 us pulse,
 - 1 is encoded as 640 us gap and 320 us pulse.
 The device sends a 4 times the packet when a button on the remote control is pressed.
